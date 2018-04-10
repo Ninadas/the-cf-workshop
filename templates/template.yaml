@@ -97,4 +97,3 @@ Outputs:
     Description: DNS name for the load balancer
     Value: !Sub ${loadBalancer.DNSName}
 
-
